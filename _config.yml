@@ -79,5 +79,5 @@ theme: tranquilpeak
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@ColorC77.github.com:ColorC77/ColorC77.github.io.git
+  repo: git@Colour7.github.com:Colour7/Colour7.github.io.git
   branch: master
